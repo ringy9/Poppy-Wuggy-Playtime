@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "935c0bbe9744aadf",
+            "max_int": "a7d28dcd924a951b",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Poppy Wuggy Playtime",
+            "photo": "https://i.postimg.cc/jStY6V78/maxresdefault-1.jpg",
+            "voice": "https://ringy9.github.io/Poppy-Wuggy-Playtime/audio.mp3",
+            "video": "https://ringy9.github.io/Poppy-Wuggy-Playtime/sanvidclus.mp4",
+            "stories": [
+               "https://i.postimg.cc/MKkSTfKJ/3a3e6563960f6a0cbd563d8c4a32ed64.jpg",
+"https://i.postimg.cc/Bnp9Mh5J/3d2a03b6d015896b237804df73e641e5.jpg",
+"https://i.postimg.cc/QC1v5SxG/4f4bc6ba12ea482c888b5eaf35d651e7.jpg",
+"https://i.postimg.cc/Zqqkgrjp/6fb2d3431d2565c505cdaba581fa003a.jpg",
+"https://i.postimg.cc/QxprWNH9/791e33448c18e9843523b304beb20f9f.jpg",
+"https://i.postimg.cc/9FPvQxny/df60qnd-f762de72-f121-4f8e-b97f-2946938115fc.png",
+"https://i.postimg.cc/WpkBQpmW/e445116235334ee4850e62809217e1ba.jpg",
+"https://i.postimg.cc/MGrk8vr4/fe9ee4136be04904b3368667903907d6.jpg",
+"https://i.postimg.cc/dtcbvM4q/maxresdefault.jpg",
+"https://i.postimg.cc/jStY6V78/maxresdefault-1.jpg",
+"https://i.postimg.cc/hjJk4ckG/Poppy-Playtime-Kapitel-3-header-640x360.jpg"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/MKkSTfKJ/3a3e6563960f6a0cbd563d8c4a32ed64.jpg",
+"https://i.postimg.cc/Bnp9Mh5J/3d2a03b6d015896b237804df73e641e5.jpg",
+"https://i.postimg.cc/QC1v5SxG/4f4bc6ba12ea482c888b5eaf35d651e7.jpg",
+"https://i.postimg.cc/Zqqkgrjp/6fb2d3431d2565c505cdaba581fa003a.jpg",
+"https://i.postimg.cc/QxprWNH9/791e33448c18e9843523b304beb20f9f.jpg",
+"https://i.postimg.cc/9FPvQxny/df60qnd-f762de72-f121-4f8e-b97f-2946938115fc.png",
+"https://i.postimg.cc/WpkBQpmW/e445116235334ee4850e62809217e1ba.jpg",
+"https://i.postimg.cc/MGrk8vr4/fe9ee4136be04904b3368667903907d6.jpg",
+"https://i.postimg.cc/dtcbvM4q/maxresdefault.jpg",
+"https://i.postimg.cc/jStY6V78/maxresdefault-1.jpg",
+"https://i.postimg.cc/hjJk4ckG/Poppy-Playtime-Kapitel-3-header-640x360.jpg"
+            ]
+          
+        }
+    ]
+}
